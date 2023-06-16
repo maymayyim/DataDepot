@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "ListPageObj",
+    "pageId": "ListPage",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "ListPage_ListPageObj",
+  "deleted": false,
+  "gitSyncId": "6482a5b9e5b76a7c768658db_6488055fe5b76a7c7686590e"
+}

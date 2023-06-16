@@ -1,0 +1,6 @@
+{
+    "message": {{SearchInput.inputText}},
+    "metadata": {
+			doc_id: {{FileOptions.selectedOptionValue}}
+		}
+}
